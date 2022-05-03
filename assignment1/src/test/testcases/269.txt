@@ -1,0 +1,9 @@
+
+            Class MyClass_69 {
+                myMethod_69(){
+                    If (a || b) {}
+                    Elseif (x && y) {}
+                    Else (True) {} 
+                }
+            }
+        

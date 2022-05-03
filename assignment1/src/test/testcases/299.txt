@@ -1,0 +1,13 @@
+
+            Class MyClass_99 {
+                myMethod_99()
+                {
+                    {}
+                    If (True)
+                    {
+                        {}
+                        Return;
+                    }
+                }
+            }
+        

@@ -1,0 +1,7 @@
+
+            Class MyClass_55 {
+                myMethod_55(){
+                    Var $yourVal: String = "Hanoi";
+                }
+            }
+        

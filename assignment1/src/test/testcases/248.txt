@@ -1,0 +1,7 @@
+
+            Class MyClass_48 {
+                myMethod_48(){
+                    Var yourObject: People = New (x - 3, True);
+                }
+            }
+        

@@ -1,0 +1,14 @@
+
+            Class MyClass_88 {
+                myMethod_88(){
+                    Foreach (x In 1 .. 10)
+                    {
+                        x = x + 1;
+                        If (x > 5)
+                        {
+                            Return;
+                        }
+                    }
+                }
+            }
+        

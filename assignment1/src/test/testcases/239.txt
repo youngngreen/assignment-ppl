@@ -1,0 +1,8 @@
+
+            Class myClass_39 {
+                $myMethod_39(){
+                    Val myArray_39: Array[Float, 3] = Array(1.5, 3.25, 5);
+                    x = arr[0];
+                }
+            }
+        

@@ -1,0 +1,7 @@
+
+            Class MyClass_93 {
+                myMethod_93(){
+                    get.size();
+                }
+            }
+        

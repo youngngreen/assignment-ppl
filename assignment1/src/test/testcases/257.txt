@@ -1,0 +1,7 @@
+
+            Class MyClass_57 {
+                myMethod_57(){
+                    Val $lastConst: String = "Good bye!";
+                }
+            }
+        

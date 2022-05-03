@@ -1,0 +1,5 @@
+
+            Class Vietnam{
+                Var Capital = Saigon;
+            }
+        

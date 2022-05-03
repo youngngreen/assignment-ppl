@@ -1,0 +1,7 @@
+
+            Class MyClass_40 {
+                $MyMethod_40(){
+                    Val myArray_40: Array[Int, 8] = Array();
+                }
+            }
+        

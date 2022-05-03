@@ -1,0 +1,6 @@
+
+            Class Color{
+                Var $yellow, red: String;
+                Val blue, $Orange: String;
+            }
+        

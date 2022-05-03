@@ -1,0 +1,7 @@
+
+            Class MyClass_51 {
+                myMethod_51(){
+                    y = x * Self.myPI;
+                }
+            }
+        

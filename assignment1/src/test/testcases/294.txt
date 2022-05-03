@@ -1,0 +1,7 @@
+
+            Class MyClass_94 {
+                myMethod_94(){
+                    rectangular::getSize();
+                }
+            }
+        

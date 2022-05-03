@@ -1,0 +1,7 @@
+
+            Class MyClass_60 {
+                myMethod_60(){
+                    = c.getSize();
+                }
+            }
+        

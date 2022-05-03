@@ -1,0 +1,7 @@
+
+            Class myClass_34 {
+                $myMethod_34(){
+                    Var yourArray_34: Array[Int, 4];
+                }
+            }
+        

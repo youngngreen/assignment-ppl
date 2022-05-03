@@ -1,0 +1,7 @@
+
+            Class MyClass_92 {
+                myMethod_92(){
+                    Shape::$getNumOfShape();
+                }
+            }
+        

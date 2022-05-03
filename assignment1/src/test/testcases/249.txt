@@ -1,0 +1,7 @@
+
+            Class MyClass_49 {
+                myMethod_49(){
+                    Val hisObject: Null = New Car(x, *);
+                }
+            }
+        

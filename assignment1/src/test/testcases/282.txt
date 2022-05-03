@@ -1,0 +1,10 @@
+
+            Class MyClass_82 {
+                myMethod_82(){
+                    Foreach (x In 1 .. 10)
+                    {
+                        break;
+                    }
+                }
+            }
+        

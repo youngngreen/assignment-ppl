@@ -1,0 +1,8 @@
+
+            Class MyClass_58 {
+                myMethod_58(){
+                    x = y + z * Self.mean - a[2][x-y];
+                    m[n][y * k % f] = v.length();
+                }
+            }
+        

@@ -1,0 +1,5 @@
+
+            Class Cat{
+                Var weight, $height: Float;
+            }
+        

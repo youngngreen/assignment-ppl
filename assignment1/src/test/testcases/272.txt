@@ -1,0 +1,9 @@
+
+            Class MyClass_72 {
+                myMethod_72(){
+                    Foreach (x In 5 .. 2) {
+                        Out.printInt(arr[x]);
+                    }
+                }
+            }
+        

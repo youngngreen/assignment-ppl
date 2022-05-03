@@ -1,0 +1,7 @@
+
+            Class MyClass_44 {
+                myMethod_44(){
+                    y = New dog();
+                }
+            }
+        

@@ -1,0 +1,9 @@
+
+            Class MyClass_73 {
+                myMethod_73(){
+                    foreach (i In 0 .. 10) {
+                        arr[i] = i + 1;
+                    }
+                }
+            }
+        

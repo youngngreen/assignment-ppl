@@ -1,0 +1,6 @@
+
+            Class footbalPlayer{
+                Var height: Float = 180.5;
+                Val $age: Int = 24;
+            }
+        

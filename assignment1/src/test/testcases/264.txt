@@ -1,0 +1,8 @@
+
+            Class MyClass_64 {
+                myMethod_64(){
+                    If (True && False) {}
+                    Elseif(False) {}    
+                }
+            }
+        

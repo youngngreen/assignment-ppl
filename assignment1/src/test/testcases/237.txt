@@ -1,0 +1,7 @@
+
+            Class myClass_37 {
+                $myMethod_37(){
+                    Val myArray_37: Array[Int, 4] = Array(1, 5, 3, 2);
+                }
+            }
+        

@@ -1,0 +1,7 @@
+
+            Class myClass_30 {
+                myMethod_30(){
+                    Return myReturn;
+                };
+            }
+        

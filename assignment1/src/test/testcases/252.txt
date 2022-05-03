@@ -1,0 +1,8 @@
+
+            Class MyClass_52 {
+                myMethod_52(){
+                    Var x: Int;
+                    Var y: Float = 5.25;
+                }
+            }
+        

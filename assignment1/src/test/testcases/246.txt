@@ -1,0 +1,7 @@
+
+            Class MyClass_46 {
+                myMethod_46(){
+                    Val a : Null = new People();
+                }
+            }
+        

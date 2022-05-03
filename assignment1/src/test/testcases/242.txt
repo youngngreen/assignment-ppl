@@ -1,0 +1,11 @@
+
+            Class MyClass_42 {
+                $MyMethod_42(){
+                    Var myArray_42: Array[String, 5] = Array (
+                                                            Array("Volvo", "22", "18"),
+                                                            Array("Saab", "5", "2"),
+                                                            "Toyota"
+                                                            );
+                }
+            }
+        

@@ -1,0 +1,14 @@
+
+            Class MyClass_80 {
+                myMethod_80(){
+                    Foreach (x In 1 .. 10)
+                    {
+                        Out.printInt(arr[x]);
+                        If (x > 5)
+                        {
+                            Break;
+                        }
+                    }
+                }
+            }
+        

@@ -1,0 +1,7 @@
+
+            Class myClass_35 {
+                $myMethod_35(){
+                    yourArray_34 = Array (1, 4, 3, 5);
+                }
+            }
+        

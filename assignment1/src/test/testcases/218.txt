@@ -1,0 +1,5 @@
+
+            Class Restaurant{
+                Val star location: Int;
+            }
+        

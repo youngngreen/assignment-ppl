@@ -1,0 +1,4 @@
+
+            Var $name, age: Int;
+            Class Dog{}
+        

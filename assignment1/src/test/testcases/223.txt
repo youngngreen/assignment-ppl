@@ -1,0 +1,8 @@
+
+            Class Car {
+                setColor(color: String) {
+                    $color[1][2] = red;
+                    Return True;
+                }
+            }
+        

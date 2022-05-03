@@ -1,0 +1,7 @@
+
+            Class MyClass_50 {
+                myMethod_50(){
+                    Var thatObject: Null = Car(x, y, z);
+                }
+            }
+        

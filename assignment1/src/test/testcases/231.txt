@@ -1,0 +1,6 @@
+
+            Class myClass_31 {
+                Constructor(color, size: String; x, y: Int){}
+                Destructor(){}
+            }
+        

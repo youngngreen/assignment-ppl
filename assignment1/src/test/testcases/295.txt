@@ -1,0 +1,7 @@
+
+            Class MyClass_95 {
+                myMethod_95(){
+                    let.$changeName();
+                }
+            }
+        

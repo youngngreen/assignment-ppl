@@ -1,0 +1,15 @@
+
+            Class MyClass_100 {
+                myMethod_100()
+                {
+                    Foreach (i In 0 .. 10)
+                    {
+                        arr[i] = i + 1;
+                        {
+                            a = b % c;
+                            c = Self.length;
+                        }
+                    }
+                }
+            }
+        

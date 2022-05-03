@@ -1,0 +1,9 @@
+
+            Class MyClass_74 {
+                myMethod_74(){
+                    Foreach (x in 2 .. 8) {
+                        y = y * x;
+                    }
+                }
+            }
+        

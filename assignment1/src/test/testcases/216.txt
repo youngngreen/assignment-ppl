@@ -1,0 +1,5 @@
+
+            Class People{
+               vaL $height: Float = 170.0;
+            }
+        

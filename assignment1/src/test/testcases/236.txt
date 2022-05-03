@@ -1,0 +1,11 @@
+
+            Class myClass_36 {
+                $myMethod_36(){
+                    myArr = Array (
+                                Array("Volvo", "22", "18"),
+                                Array("Saab", "5", "2"),
+                                Array("Land Rover", "17", "15")
+                            );
+                }
+            }
+        

@@ -1,0 +1,5 @@
+
+            Class Animal{
+                Val weight, long: Float = 50.25 130.5;
+            }
+        

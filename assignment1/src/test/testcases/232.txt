@@ -1,0 +1,10 @@
+
+            Class myClass_32 {
+                Constructor(a, b: Float){
+                    y = x % z;
+                }
+                Destructor(){
+                    z = z + 2 - z;
+                }
+            }
+        

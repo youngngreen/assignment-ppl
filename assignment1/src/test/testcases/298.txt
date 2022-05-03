@@ -1,0 +1,17 @@
+
+            Class MyClass_98 {
+                myMethod_98()
+                {
+                    If (a == 20 && True)
+                    {
+                        c = a + b;
+                        Return c;
+                    }
+                    Else
+                    {
+                        x = x + 1;
+                        Return False;
+                    } 
+                }
+            }
+        

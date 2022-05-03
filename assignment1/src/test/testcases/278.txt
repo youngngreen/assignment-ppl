@@ -1,0 +1,9 @@
+
+            Class MyClass_78 {
+                myMethod_78(){
+                    Foreach () {
+                        x = x + 1;
+                    }
+                }
+            }
+        

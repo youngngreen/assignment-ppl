@@ -1,0 +1,7 @@
+
+            Class MyClass_47 {
+                myMethod_47(){
+                    Var newObject: Null = New aniMal;
+                }
+            }
+        

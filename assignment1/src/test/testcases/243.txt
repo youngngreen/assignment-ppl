@@ -1,0 +1,7 @@
+
+            Class MyClass_43 {
+                $MyMethod_43(){
+                    x = New Car(5, 7);
+                }
+            }
+        

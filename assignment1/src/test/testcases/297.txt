@@ -1,0 +1,13 @@
+
+            Class MyClass_96 {
+                myMethod_96()
+                {
+                    Val a, b: String = "hello", "hi";
+                    s = y + z - v % i;
+                    {
+                        a = b && c;
+                        Var c: Int = 5;
+                    }
+                }
+            }
+        

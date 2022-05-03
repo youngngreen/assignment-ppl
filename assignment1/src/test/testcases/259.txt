@@ -1,0 +1,7 @@
+
+            Class MyClass_59 {
+                myMethod_59(){
+                    k =;
+                }
+            }
+        

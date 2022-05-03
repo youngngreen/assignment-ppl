@@ -1,0 +1,9 @@
+
+            Class MyClass_75 {
+                myMethod_75(){
+                    Foreach (x In 1 . 100) {
+                        Out.print(x + 1);
+                    }
+                }
+            }
+        

@@ -1,0 +1,10 @@
+
+            Class MyClass_91 {
+                myMethod_91(){
+                    Foreach (x In 1 .. 100)
+                    {
+                        Return
+                    }
+                }
+            }
+        

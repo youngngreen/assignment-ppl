@@ -1,0 +1,7 @@
+
+            Class Dog: Pet {
+                getWeight(a, b, c: Int; x, y, z: Float) {
+                    Return;
+                }
+            }
+        

@@ -1,0 +1,7 @@
+
+            Class myClass_38 {
+                $myMethod_38(){
+                    Val myArray_38: Array[Boolean, 0];
+                }
+            }
+        

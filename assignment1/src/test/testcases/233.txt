@@ -1,0 +1,6 @@
+
+            Class myClass_33 {
+                Constructor(x, y: Int){}
+                Destructor(y, z: Array; u, v: Boolean){}
+            }
+        

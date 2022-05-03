@@ -1,0 +1,9 @@
+
+            Class MyClass_67 {
+                myMethod_67(){
+                    If () {Return x;}
+                    Elseif (b > 0) {Return y;}
+                    Else {Return z;} 
+                }
+            }
+        

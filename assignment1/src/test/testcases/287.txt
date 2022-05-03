@@ -1,0 +1,10 @@
+
+            Class MyClass_87 {
+                myMethod_87(){
+                    Foreach (x In 1 .. 100)
+                    {
+                        Continue
+                    }
+                }
+            }
+        

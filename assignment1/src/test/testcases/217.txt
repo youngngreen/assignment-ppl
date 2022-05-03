@@ -1,0 +1,5 @@
+
+            Class Truck{
+                Var $size, $color String = big, red;
+            }
+        

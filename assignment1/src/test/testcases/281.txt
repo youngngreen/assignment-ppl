@@ -1,0 +1,10 @@
+
+            Class MyClass_81 {
+                myMethod_81(){
+                    Foreach (i In 0 .. 25)
+                    {
+                        Break;
+                    }
+                }
+            }
+        

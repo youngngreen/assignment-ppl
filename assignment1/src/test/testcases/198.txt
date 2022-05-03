@@ -1,0 +1,7 @@
+
+            Array (
+                    Array("hello", "hi", "good bye"),
+                    Array("Saigon", "5", "2"),
+                    Array("Hanoi", "NhaTrang", "15")
+            )
+            

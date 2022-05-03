@@ -1,0 +1,7 @@
+
+            Class MyClass_54 {
+                myMethod_54(){
+                    Var myVal;
+                }
+            }
+        

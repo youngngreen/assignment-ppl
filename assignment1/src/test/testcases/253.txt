@@ -1,0 +1,8 @@
+
+            Class MyClass_53 {
+                myMethod_53(){
+                    Val a: String = "vieTnaM";
+                    Val size: Int;
+                }
+            }
+        

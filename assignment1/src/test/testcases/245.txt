@@ -1,0 +1,7 @@
+
+            Class MyClass_45 {
+                myMethod_45(){
+                    z = New Animal(x + 2, New Car("color", "size"), Array(1, 3, 5));
+                }
+            }
+        

@@ -1,0 +1,7 @@
+
+            Class MyClass_56 {
+                myMethod_56(){
+                    Val newConst = 10e12;
+                }
+            }
+        

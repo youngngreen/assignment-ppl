@@ -1,0 +1,1 @@
+It,begins,with,a,dollar,sign,(,Error Token $

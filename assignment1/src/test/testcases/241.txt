@@ -1,0 +1,7 @@
+
+            Class MyClass_41 {
+                $MyMethod_41(){
+                    Var myArray_41: Array[String, 5] = Array("Lan", "Hong", "Cuc",);
+                }
+            }
+        

@@ -1,0 +1,5 @@
+
+            Class province{
+                Var $population, $area: Int = 97_000_000, 300_000
+            }
+        

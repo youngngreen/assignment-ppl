@@ -1,0 +1,7 @@
+
+            Class Country {
+                $province(x, y, z: String;){
+                    x = y + z;
+                }
+            }
+        

@@ -1,0 +1,9 @@
+
+            Class MyClass_70 {
+                myMethod_70(){
+                    If (False) Return x + y;
+                    Elseif (a == 0) {Return;}
+                    Else {Return;} 
+                }
+            }
+        
