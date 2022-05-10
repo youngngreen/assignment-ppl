@@ -1,0 +1,9 @@
+
+            Class B{}
+            Class A {
+                foo(){
+                    Val a: Int = 0;
+                    a = 1;
+                }
+            }
+        

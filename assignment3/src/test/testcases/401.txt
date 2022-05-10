@@ -1,3 +1,6 @@
-int main () {
-            putIntLn();
-        }
+
+            Class A {
+                Var numOfShape: Int = 0;
+                Var numOfShape: Int;
+            }
+        

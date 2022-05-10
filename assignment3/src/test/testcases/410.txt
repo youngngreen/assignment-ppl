@@ -1,0 +1,17 @@
+
+            Class B{}
+            Class A {
+                int foo(){
+                    {
+                        {
+                            {
+                                {
+                                    Var test: C;
+                                }
+                            }
+                        }
+                    }
+                }
+
+            }
+        
