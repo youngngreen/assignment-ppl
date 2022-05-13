@@ -2,6 +2,5 @@
             Class B{}
             Class A {
                 Var c: C ;
-
             }
         

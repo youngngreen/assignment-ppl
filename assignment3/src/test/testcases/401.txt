@@ -1,6 +1,6 @@
 
-            Class A {
-                Var numOfShape: Int = 0;
-                Var numOfShape: Int;
-            }
+            Class A {}
+            Class B{}
+            Class A{}
+
         

@@ -1,0 +1,7 @@
+     
+                        Class A {
+                           $defExp1(x:Float; y:String){
+                                Var a:Array[Int, 2] = Array(1,1);
+                                a = Array(1,1,1);
+                           }               
+                        }

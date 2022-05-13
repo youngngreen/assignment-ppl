@@ -1,0 +1,20 @@
+     
+                        Class A {
+                           Var a:Int = 1;
+                           def(x:Float; y:String){
+                           }                      
+                        }                        
+                        Class B{ 
+                            Var b:A = New A();
+                            def(){
+                                Return New A();
+                            }
+                        }
+                        Class C{
+                            def(){
+                                Var c:B = New B();
+                                c.def().def(1,"a");
+                                c.b.def(1.2,"a");
+                                c.b.def(1,1.2);
+                            }
+                        }

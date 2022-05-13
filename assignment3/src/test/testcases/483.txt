@@ -1,0 +1,22 @@
+     
+                        Class A {
+                           Var a:Int = 1;
+                           $defExp1(x:Float; y:String){
+                                Return Self.a;
+                           } 
+                           $defExp2(x:Float; y:String){
+                                Return x;
+                           }  
+                           $defExp3(x:Float; y:String){
+                                Return y;
+                           }               
+                        }                        
+                        Class B{
+                            def2(){
+                                Var e:Float = (New A()).a;
+                                e = A::$defExp1(1, "a");
+                                e = A::$defExp2(1, "a");
+                                Var f:String = A::$defExp3(1, "a");
+                                Var g:Float = A::$defExp3(1, "a");
+                            }
+                        }

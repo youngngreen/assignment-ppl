@@ -1,0 +1,13 @@
+     
+                        Class E {
+                           $myMethod() {                        
+                           } 
+                           Constructor(a:Int){
+                           }                       
+                        }                        
+                        Class Test{ 
+                            cak(){                     
+                                E::$myMethod();   
+                                E::$def();                             
+                            }
+                        }

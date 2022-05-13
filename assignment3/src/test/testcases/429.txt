@@ -1,0 +1,9 @@
+
+            Class A {
+                Val $numOfShape : Int = 0;
+                Val immuAttribute: Int = 0;
+                test(n : Int){
+                    Var n: Int;
+                }
+            }
+        

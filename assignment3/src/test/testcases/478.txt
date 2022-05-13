@@ -1,0 +1,23 @@
+     
+                        Class A {
+                           Var a:Int = 1;
+                           def(){
+                                Return 1;
+                           }                      
+                        }                        
+                        Class B{ 
+                            Var b:A = New A();
+                            def(){
+                                Return New A();
+                            }
+                        }
+                        Class C{
+                            def(){
+                                Var c:B = New B();
+                                Var e:Int = c.b.a;
+                                e = c.b.def();
+                                e = c.def().a;
+                                e = c.def().def();
+                                Var f:Int = c.def();
+                            }
+                        }

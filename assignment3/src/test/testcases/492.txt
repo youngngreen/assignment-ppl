@@ -1,0 +1,7 @@
+     
+                        Class A {
+                        Val a:Int = 2;
+                           $defExp1(){
+                                Self.a = "abc";
+                           }               
+                        }

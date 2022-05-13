@@ -1,0 +1,6 @@
+         
+                        Class B{
+                        myMethod(){
+                            count.def();
+                        }
+                        }

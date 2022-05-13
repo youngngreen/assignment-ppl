@@ -1,0 +1,12 @@
+     
+                        Class B{
+                        Var x:Int = 1;
+                        def(){
+                            Return 1;
+                        }
+                        myMethod (){
+                            Var a:Int = Self.x;
+                            a = Self.def();
+                            Var b:String = Self.def();
+                        }
+                        } 

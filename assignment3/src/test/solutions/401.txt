@@ -1,1 +1,1 @@
-Redeclared Attribute: numOfShape
+Redeclared Class: A

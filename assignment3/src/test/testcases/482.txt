@@ -1,0 +1,23 @@
+     
+                        Class A {
+                           Var a:Int = 1;
+                           defExp(x:Float; y:String){
+                                Return 1;
+                           }  
+                           defCall(x:Float; y:String){}                    
+                        }                        
+                        Class B{ 
+                            Var b:A = New A();
+                            def(){
+                                Return New A();
+                            }
+                            def2(){
+                                Var e:Int = Self.b.a;
+                                e = Self.b.defExp(1, "a");
+                                e = Self.def().a;
+                                e = Self.def().defExp(1, "a");
+                                Self.b.defCall(1, "a");
+                                Self.def().defCall(1, "a");
+                                Self.g().defCall(1, "a");
+                            }
+                        }

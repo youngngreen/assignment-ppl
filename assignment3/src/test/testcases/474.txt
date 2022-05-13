@@ -1,0 +1,14 @@
+     
+                        Class E {
+                           $myMethod() { 
+                                Return 1;                       
+                           } 
+                           Constructor(a:Int){
+                           }                       
+                        }                        
+                        Class Test{ 
+                            cak(){                     
+                                Var a:Int = E::$myMethod();   
+                                Var b:Int = E::$def();                             
+                            }
+                        }
